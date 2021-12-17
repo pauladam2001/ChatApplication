@@ -15,7 +15,6 @@
 - cd client/
 - npx create-react-app@latest ./
 - npm install stream-chat stream-chat-react universal-cookie axios
-
 - cd server/
 - npm init -y
 - npm install bcrypt crypto dotenv express getstream stream-chat nodemon twilio cors
